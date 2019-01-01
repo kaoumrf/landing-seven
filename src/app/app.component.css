@@ -19,6 +19,13 @@
     background-color: #05c46b;
     border-radius: 30px;
 }
+.btn-cont:hover {
+    background:#0886;
+    color:  #fff;
+    font-style: italic;
+    transition: .100s;
+}
+
 .btn-mobile{
     visibility: hidden;
 }
